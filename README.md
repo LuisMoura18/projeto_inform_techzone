@@ -9,7 +9,7 @@ Techzone
 - [Como Usar]
 - [Autor]
 
-  Descrição
+ Descrição
 
   Este projeto consiste em um site estático e responsivo criado com HTML e CSS, projetado para apresentar um site de informática chamado "Techzone". O site exibe eletrodomésticos no geral, carrosséis com produtos em destaque, qualidades do nosso site e é um ótimo exemplo de um template inicial para sites de pequenas empresas tecnológicas.
 
